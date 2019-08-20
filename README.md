@@ -1,6 +1,6 @@
 # TaxStrategy
 
-You can download XCode to run this program or paste it directly here: http://online.swiftplayground.run
+You can download Xcode to run this program or paste it directly here: http://online.swiftplayground.run
 
 I wrote this program to solve of problem of "How much should you put into Roth 401k compared to regular 401k" and the result of this program is quite interesting and at the same time, not so surprising. While the tax law frequently changes and your salary won't always stay the same throughout your career, these Swift code can give you a good sense how your 401k will look like in 40 years.
 
