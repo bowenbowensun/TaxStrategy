@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 let taxBracket: [(start: Double, end: Double, rate: Double, baseTax: Double)] = [(0, 9700, 0.1, 0), (9701, 39475, 0.12, 970), (39476, 84200, 0.22, 4543), (84201, 160725, 0.24, 14382.5), (160726, 204100, 0.32, 32748.5), (204101, 510300, 0.35, 46628.5), (510301, Double.greatestFiniteMagnitude, 0.37, 153798)]
 
